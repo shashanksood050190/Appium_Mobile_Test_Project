@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Software/Android/SDK/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Software/Android/SDK/java-client-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/Android/SDK/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
