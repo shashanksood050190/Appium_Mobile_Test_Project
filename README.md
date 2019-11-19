@@ -1,4 +1,6 @@
-This project is about Android Application Automation. It has two parts:
+This project is about Android Application Automation. 
+
+It has two parts:
 
 1. Test case where .apk file is installed and tested on Real Adroid Device
 
